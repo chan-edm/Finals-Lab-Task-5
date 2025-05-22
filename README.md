@@ -1,5 +1,5 @@
 # Finals-Lab-Task-5 
-# Views, Stored Procedures and Functions
+## Views, Stored Procedures and Functions
 
 ## 1 Setup MySQL Workbench:
 - Open XAMPP and start the MySQL server.
