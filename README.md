@@ -1,5 +1,4 @@
-### Finals-Lab-Task-5 Views, Stored Procedures and Functions
-## STEP by STEP
+## Finals-Lab-Task-5 Views, Stored Procedures and Functions
 # 1 Setup MySQL Workbench:
 - Open XAMPP and start the MySQL server.
 - Connect MySQL Workbench to the server.
@@ -20,4 +19,5 @@
 ![Image](https://github.com/user-attachments/assets/46f1d0db-abfd-486b-88f8-c0e8dd3ec15d)
 ![Image](https://github.com/user-attachments/assets/f549dbe1-afe5-498a-8edc-f016529cc559)
 
-[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
+ <a href="https://chan-edm.github.io/README/" class="btn">BACK TO PORTFOLIO</a>
+    <a href="https://chan-edm.github.io/Final-Lab-Task-6/" class="btn">CONTINUE TO LEARN</a>
