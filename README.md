@@ -17,7 +17,7 @@
 # 6 Execute and Document:
 - Run the SQL and capture screenshots of commands and results.
 ## Sample output
-![Image](https://github.com/user-attachments/assets/f549dbe1-afe5-498a-8edc-f016529cc559)
 ![Image](https://github.com/user-attachments/assets/46f1d0db-abfd-486b-88f8-c0e8dd3ec15d)
+![Image](https://github.com/user-attachments/assets/f549dbe1-afe5-498a-8edc-f016529cc559)
 
 [BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
